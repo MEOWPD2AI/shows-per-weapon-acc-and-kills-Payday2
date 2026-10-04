@@ -1,0 +1,35 @@
+<table name="Missed Shots Tracker">
+	<!-- Font packs, loaded as assets by BeardLib (no mod_overrides needed). -->
+	<AddFiles directory="assets" load="true">
+		<font path="fonts/mst_andy_small" force="true"/>
+		<texture path="fonts/mst_andy_small" force="true"/>
+		<font path="fonts/mst_andy_medium" force="true"/>
+		<texture path="fonts/mst_andy_medium" force="true"/>
+		<font path="fonts/mst_andy_large" force="true"/>
+		<texture path="fonts/mst_andy_large" force="true"/>
+		<font path="fonts/mst_hemi_head_small" force="true"/>
+		<texture path="fonts/mst_hemi_head_small" force="true"/>
+		<font path="fonts/mst_hemi_head_medium" force="true"/>
+		<texture path="fonts/mst_hemi_head_medium" force="true"/>
+		<font path="fonts/mst_hemi_head_large" force="true"/>
+		<texture path="fonts/mst_hemi_head_large" force="true"/>
+		<font path="fonts/mst_minecraft_small" force="true"/>
+		<texture path="fonts/mst_minecraft_small" force="true"/>
+		<font path="fonts/mst_minecraft_medium" force="true"/>
+		<texture path="fonts/mst_minecraft_medium" force="true"/>
+		<font path="fonts/mst_minecraft_large" force="true"/>
+		<texture path="fonts/mst_minecraft_large" force="true"/>
+		<font path="fonts/mst_determination_mono_small" force="true"/>
+		<texture path="fonts/mst_determination_mono_small" force="true"/>
+		<font path="fonts/mst_determination_mono_medium" force="true"/>
+		<texture path="fonts/mst_determination_mono_medium" force="true"/>
+		<font path="fonts/mst_determination_mono_large" force="true"/>
+		<texture path="fonts/mst_determination_mono_large" force="true"/>
+		<font path="fonts/mst_rpg_maker_small" force="true"/>
+		<texture path="fonts/mst_rpg_maker_small" force="true"/>
+		<font path="fonts/mst_rpg_maker_medium" force="true"/>
+		<texture path="fonts/mst_rpg_maker_medium" force="true"/>
+		<font path="fonts/mst_rpg_maker_large" force="true"/>
+		<texture path="fonts/mst_rpg_maker_large" force="true"/>
+	</AddFiles>
+</table>
